@@ -1,0 +1,4 @@
+distance	via_width
+2360	360
+710	360
+520	260

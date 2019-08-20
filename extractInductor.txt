@@ -1,0 +1,23 @@
+#------------------------------------------------------------------
+# Lay_LPF_3GHz_01_merged.txt
+#
+# This file was created by LinkCAD 5.7.0 Build 4508.
+# It is a text translation of a GDSII format binary file.
+#------------------------------------------------------------------
+
+#----- GDSII Stream Format: Version 3
+
+HEADER          3;
+
+#----- Library: Lay_LPF_3GHz_01_merged.txt
+
+BGNLIB          03/22/2010 11:12:39 03/22/2010 11:12:39;
+LIBNAME         Lay_LPF_3GHz_01_merged.txt;
+UNITS           1.000000e-003 1.000000e-009;
+
+#----- Structure: Lay_LPF_3GHz_01
+
+BGNSTR          03/22/2010 11:12:39 03/22/2010 11:12:39;
+STRNAME         Lay_LPF_3GHz_01;
+ENDSTR
+ENDLIB

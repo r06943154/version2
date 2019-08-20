@@ -1,0 +1,434 @@
+#
+60lna.txt
+testlayer.txt
+5000
+3000
+5000
+4 14 16 18 24 
+1 0
+3000
+#
+Full_v4.txt
+testlayer2.txt
+130000
+100000
+130000
+2 14 34
+1 0
+100000
+#
+C8L14.txt
+testlayer.txt
+130000
+100000
+130000
+2 110 125
+1 0
+100000
+#
+MM01.txt
+testlayer.txt
+5000
+4000
+5000
+2 0 12
+0 
+240
+#
+LLC1.txt
+testlayer.txt
+130000
+100000
+130000
+2 1 28
+1 0
+100000
+#
+LLC2.txt
+testlayer.txt
+130000
+100000
+130000
+2 36 59
+1 0
+100000
+#
+LLC3.txt
+testlayer.txt
+130000
+100000
+130000
+2 36 59
+1 0
+100000
+#
+LLC4.txt
+testlayer.txt
+130000
+100000
+130000
+2 2 63
+1 0
+100000
+#
+L1.txt
+testlayer.txt
+130000
+100000
+130000
+1 9
+1 0
+100000
+#
+L1L2.txt
+testlayer.txt
+130000
+100000
+130000
+2 4 9
+1 0
+100000
+#
+L1L22.txt
+testlayer.txt
+130000
+100000
+130000
+1 14
+1 0
+100000
+#
+L1L23.txt
+testlayer.txt
+130000
+100000
+130000
+1 4
+1 0
+100000
+#
+L11.txt
+testlayer.txt
+130000
+100000
+130000
+2 27 63
+1 0
+100000
+#
+L12.txt
+testlayer.txt
+130000
+100000
+130000
+2 1 28
+1 0
+100000
+#
+L1L2C2.txt
+testlayer.txt
+130000
+100000
+130000
+1 10
+1 0
+100000
+#
+C1L2C1.txt
+testlayer.txt
+130000
+100000
+130000
+1 16
+1 0
+100000
+#
+L4.txt
+testlayer.txt
+130000
+100000
+130000
+2 21 60
+1 0
+100000
+#
+MM02.txt
+testlayer.txt
+5000
+4000
+5000
+1 2
+1 14 
+240
+#
+M1.txt
+testlayer.txt
+130000
+100000
+130000
+2 74 90
+1 0
+100000
+#
+M2.txt
+testlayer.txt
+130000
+100000
+130000
+2 3 6
+1 12
+100000
+#
+M2C1.txt
+testlayer.txt
+130000
+100000
+130000
+2 6 9
+1 12
+100000
+#
+C4L1.txt
+testlayer.txt
+130000
+100000
+130000
+2 5 15
+1 0
+60000
+#
+C2.txt
+CRLHlayer.txt
+130000
+100000
+130000
+2 2 4
+1 0
+60000
+#
+L2.txt
+testlayer.txt
+130000
+100000
+130000
+2 1 2
+1 9
+60000
+#
+M11.txt
+testlayer.txt
+130000
+100000
+130000
+2 2 7
+1 0
+100000
+#
+C2L2.txt
+CRLHlayer.txt
+130000
+100000
+130000
+2 6 19
+1 0
+60000
+#
+C3L2.txt
+CRLHlayer.txt
+130000
+100000
+130000
+2 5 11
+1 0
+60000
+#
+CRLH.txt
+testlayer.txt
+130000
+100000
+130000
+2 16 40
+1 147
+60000
+#
+ych_dup_merge.txt
+ych_duplexer_layer.txt
+350000
+50000
+350000
+3 201 211 224
+1 334
+6
+#
+ych_duplexerstruct_modify.txt
+ych_duplexer_layer.txt
+120000
+100000
+120000
+2 16 40
+1 147
+60000
+#
+CRLH_COM_real_modify.txt
+CRLHlayer.txt
+130000
+100000
+130000
+2 16 40
+1 147
+60000
+#
+R01943033_QPS_25_test_modify.txt
+CRLHlayer.txt
+601000
+109000
+601000
+3 1 3 10
+1 0
+300000
+#
+CRLH_repeat_single_modify.txt
+CRLHlayer.txt
+120000
+100000
+120000
+2 9 20
+1 59
+60000
+#
+CRLH_repeat_ten_modify.txt
+CRLHlayer.txt
+120000
+100000
+120000
+2 9 153
+1 509
+60000
+#
+CRLH_repeat_modify.txt
+CRLHlayer.txt
+120000
+100000
+120000
+2 20 9
+1 1309
+60000
+#
+CRLH_repeat2_modify.txt
+CRLHlayer.txt
+120000
+100000
+120000
+2 24 992
+1 2619
+60000
+#
+CRLH_repeat4_modify.txt
+CRLHlayer.txt
+120000
+100000
+120000
+1 2
+1
+60000
+#
+Inductor_02_modify.txt
+CRLHlayer.txt
+120000
+100000
+120000
+2 2 9
+1 15
+60000
+#
+Inductor_10_modify.txt
+CRLHlayer.txt
+120000
+100000
+120000
+2 8 44
+1 79
+60000
+#
+Inductor_20_modify.txt
+CRLHlayer.txt
+120000
+100000
+120000
+2 1 93
+1 160
+60000
+#
+Inductor_40_modify.txt
+CRLHlayer.txt
+120000
+100000
+120000
+2 1 184
+1 319
+60000
+#
+Inductor_60_modify.txt
+CRLHlayer.txt
+120000
+100000
+120000
+2 1 373
+1 479
+60000
+#
+Inductor_80_modify.txt
+CRLHlayer.txt
+120000
+100000
+120000
+2 1 373
+1 639
+60000
+#
+Inductor_100_modify.txt
+CRLHlayer.txt
+120000
+100000
+120000
+2 1 604
+1 799
+60000
+#
+Inductor_200_modify.txt
+CRLHlayer.txt
+120000
+100000
+120000
+2 1 793
+1 1599
+60000
+#
+Inductor_2000_modify.txt
+CRLHlayer.txt
+120000
+100000
+120000
+2 1 2
+1 1
+60000
+#
+BPF_RXstruct.txt
+BPF_RXstruct_layer.txt
+220000
+100000
+220000
+2 1 2
+1 1
+110000
+#
+BPF_RXstruct2.txt
+layer.txt
+210000
+70000
+210000
+2 9 10
+1 0
+70000
+#
+

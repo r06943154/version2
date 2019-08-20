@@ -1,0 +1,182 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 630 (ID=0x591b)
+    Vendor:   Intel
+    VRAM:     8280 MB
+    Driver:   25.20.100.6373
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\LVS_finalvr\version2\v3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\LVS_finalvr\version2\v3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\LVS_finalvr\version2\v3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\LVS_finalvr\version2\v3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\LVS_finalvr\version2\v3_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\LVS_finalvr\version2\v3_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\LVS_finalvr\version2\v3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\LVS_finalvr\version2\v3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\LVS_finalvr\version2\v3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\LVS_finalvr\version2\v3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.248 seconds
+Platform assembly: D:\LVS_finalvr\version2\v3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\LVS_finalvr\version2\v3_Data\Managed\System.dll (this message is harmless)
+desktop: 3840x2160 60Hz; virtual: 3840x2160 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.397267 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 35d8 -> priority: 1 
+  Thread -> id: 367c -> priority: 1 
+  Thread -> id: 4358 -> priority: 1 
+  Thread -> id: 3498 -> priority: 1 
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+The referenced script on this Behaviour (Game Object '1') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'selectcube') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1744)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.758630 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 359.
+Total: 0.677704 ms (FindLiveObjects: 0.071441 ms CreateObjectMapping: 0.031751 ms MarkObjects: 0.516298 ms  DeleteObjects: 0.056888 ms)
+
+GfxDevice: creating device client; threaded=1
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1744)
+
+caparray=11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+indarray=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+component_node= 14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port=2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gnd=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+mapping_list count=14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+node=120
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rect_Num=120
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1744)
+
+C1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+C2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+C3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+C4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+C5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+C1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+C2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+C3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+C4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+C5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mouse is down
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(-0.4, -0.4, 0.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Log: connection {1} has been disconnected by timeout; address {::ffff:13.250.17.195:9999} time {27992}, last rec time {25986} rtt {150} timeout {2000}
+ServerDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
